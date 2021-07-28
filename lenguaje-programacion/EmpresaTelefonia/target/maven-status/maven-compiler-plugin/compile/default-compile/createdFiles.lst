@@ -1,0 +1,12 @@
+funcionalidades\Application.class
+entidades\PlanPostPagoMinutosMegasEconomico.class
+funcionalidades\Serializador.class
+entidades\Persona.class
+entidades\PlanPostPagoMegas.class
+entidades\PlanPostPagoMinutos.class
+funcionalidades\PlansFactory.class
+entidades\PlanCelular.class
+entidades\PlanPostPagoMinutosMegas.class
+funcionalidades\Deserializador.class
+funcionalidades\FileHandler.class
+funcionalidades\Printer.class
